@@ -8,7 +8,7 @@ describe('Testing de la manera assert : ', function() {
   describe('funciones de suma y resta', function(){
     it('Suma', function() {
        result = calculator.addTest(1,1);
-       assert.equal(result, 3);
+       assert.equal(result, 2);
 
        
     });
